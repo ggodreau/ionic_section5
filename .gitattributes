@@ -1,0 +1,4 @@
+secretfile filter=git-crypt diff=git-crypt
+* filter=git-crypt diff=git-crypt
+README.md !filter !diff
+.gitattributes !filter !diff
